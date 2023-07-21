@@ -1,4 +1,4 @@
-# Webscraping-with-search-terms-from-selected-excel-spreadsheet-from-cells-in-the-first-column
+Webscraping mit Suchbegriffen aus ausgewählter Excel-Tabelle aus Zellen in der ersten Spalte
 
 Es gibt 3 Codes, die nach Suchbegriffen suchen, Informationen korrekt eintragen und eine Liste mit kostenlosen Proxy-Servern enthalten.
 Die Datei namens "Bing Search" sucht innerhalb der Bing-Suche nach Infoboxen, in denen eine Websiteadresse zu finden ist, und trägt diese in eine extra Spalte ein, falls vorhanden.
